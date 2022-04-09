@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GeekBrains\\4 Языки программирования\\ДЗ\\Репозитории\\контрольная\\контрольная.csproj",
+      "projectUniqueName": "E:\\GeekBrains\\Выбор специализации\\контрольная\\4_code\\контрольная.csproj",
       "projectName": "контрольная",
-      "projectPath": "E:\\GeekBrains\\4 Языки программирования\\ДЗ\\Репозитории\\контрольная\\контрольная.csproj",
+      "projectPath": "E:\\GeekBrains\\Выбор специализации\\контрольная\\4_code\\контрольная.csproj",
       "packagesPath": "C:\\Users\\Алиса\\.nuget\\packages\\",
-      "outputPath": "E:\\GeekBrains\\4 Языки программирования\\ДЗ\\Репозитории\\контрольная\\obj\\",
+      "outputPath": "E:\\GeekBrains\\Выбор специализации\\контрольная\\4_code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Алиса\\AppData\\Roaming\\NuGet\\NuGet.Config"
